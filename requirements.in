@@ -1,6 +1,8 @@
 pandas
-dusk
-fastparquet
+dask[complete]
+
+pip-tools
 pyarrow
 jupyter
 boto3
+tqdm
