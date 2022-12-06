@@ -1,8 +1,9 @@
 pandas
 dask[complete]
-
+meteostat
 pip-tools
 pyarrow
 jupyter
 boto3
 tqdm
+bamboolib
