@@ -1,3 +1,4 @@
 .venv
 data
 full_data_cleaned_fixed.parquet
+.ipynb_checkpoints
