@@ -1,6 +1,11 @@
 pandas
-dusk
-fastparquet
+numpy
+meteostat
+pip-tools
 pyarrow
 jupyter
 boto3
+tqdm
+bamboolib
+scikit-learn
+prophret
