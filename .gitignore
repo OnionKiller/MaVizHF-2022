@@ -4,3 +4,4 @@ full_data_uniform.parquet
 .ipynb_checkpoints
 full_data_cleaned_fixed.parquet
 full_data_cleaned.parquet
+weather_cleaned.parquet
